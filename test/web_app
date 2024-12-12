@@ -1,0 +1,17 @@
+{
+    "web_app": {
+        "name": "MyWebApp",
+        "version": "2.5.3",
+        "supported_languages": [
+            "en",
+            "ru",
+            "es"
+        ],
+        "database": {
+            "host": "localhost",
+            "port": 5432,
+            "username": "admin",
+            "password": "password123"
+        }
+    }
+}
