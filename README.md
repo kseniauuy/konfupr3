@@ -12,6 +12,8 @@ ___
 ## Тест 3
 Конфигурация для игры
 ![test3]
+
+Все функции описаны в коде комментариями.
 ___
 ## Тестирование с помощью Pytest
 ![pytest](https://github.com/d1nech/KonfUpravlenie/blob/main/HW№3/testimg/pytest.png?raw=true)
