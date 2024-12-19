@@ -1,0 +1,23 @@
+{
+    "smart_home": {
+        "name": "HomeControl",
+        "devices": [
+            {
+                "type": "light",
+                "name": "Living Room Light",
+                "status": "on",
+                "brightness": 75
+            },
+            {
+                "type": "thermostat",
+                "name": "Bedroom Thermostat",
+                "status": "off",
+                "temperature": 22
+            }
+        ],
+        "control": {
+            "remote_access": true,
+            "cloud_sync": false
+        }
+    }
+}
