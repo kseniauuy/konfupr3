@@ -18,6 +18,10 @@ ___
 ![test3](https://github.com/kseniauuy/konfupr3/blob/main/img/game.png)
 
 Все функции описаны в коде комментариями.
+
+Запуск:
+
+python main.py input.json output.txt
 ___
 ## Тестирование с помощью Pytest
 ![pytest](https://github.com/d1nech/KonfUpravlenie/blob/main/HW№3/testimg/pytest.png?raw=true)
